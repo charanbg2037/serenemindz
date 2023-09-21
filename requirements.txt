@@ -2,3 +2,7 @@ nltk
 numpy
 keras
 flask
+pickle
+json
+random
+gunicorn
